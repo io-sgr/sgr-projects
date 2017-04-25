@@ -1,3 +1,6 @@
 [submodule "geometry/s2-geometry-library-java"]
 	path = geometry/s2-geometry-library-java
 	url = git@github.com:sgr-io/s2-geometry-library-java.git
+[submodule "geometry/common"]
+	path = geometry/common
+	url = git@github.com:sgr-io/geometry-common.git
