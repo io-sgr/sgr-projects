@@ -4,6 +4,3 @@
 [submodule "geometry/common"]
 	path = geometry/common
 	url = git@github.com:sgr-io/geometry-common.git
-[submodule "docker"]
-	path = docker
-	url = git@github.com:sgr-io/docker.git
